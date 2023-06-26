@@ -1,0 +1,7 @@
+C:\Users\Valery\source\repos\FindingAlgorithmWithHeap\FindingAlgorithmWithHeap\bin\Debug\FindingAlgorithmWithHeap.exe.config
+C:\Users\Valery\source\repos\FindingAlgorithmWithHeap\FindingAlgorithmWithHeap\bin\Debug\FindingAlgorithmWithHeap.exe
+C:\Users\Valery\source\repos\FindingAlgorithmWithHeap\FindingAlgorithmWithHeap\bin\Debug\FindingAlgorithmWithHeap.pdb
+C:\Users\Valery\source\repos\FindingAlgorithmWithHeap\FindingAlgorithmWithHeap\obj\Debug\FindingAlgorithmWithHeap.csprojAssemblyReference.cache
+C:\Users\Valery\source\repos\FindingAlgorithmWithHeap\FindingAlgorithmWithHeap\obj\Debug\FindingAlgorithmWithHeap.csproj.CoreCompileInputs.cache
+C:\Users\Valery\source\repos\FindingAlgorithmWithHeap\FindingAlgorithmWithHeap\obj\Debug\FindingAlgorithmWithHeap.exe
+C:\Users\Valery\source\repos\FindingAlgorithmWithHeap\FindingAlgorithmWithHeap\obj\Debug\FindingAlgorithmWithHeap.pdb
